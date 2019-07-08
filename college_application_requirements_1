@@ -1,0 +1,17 @@
+Project name :- JwriteNScan
+
+The requirements are the following:
+
+Python 3 probably installed but want it to be made the default
+Jupyter notebook
+Sublime Text
+Atom
+ipython :-not essential but required
+
+Python packages that need to be installed are:
+keras
+tensorflow
+numpy
+networkx
+cv2
+matplotlib
